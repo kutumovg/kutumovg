@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**kutumovg/kutumovg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 DevOps Engineer with 10+ years of experience in IT, focusing on automation, CI/CD, containerization, and cloud solutions.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Configuration management / IaC:** Ansible  
+**Clouds:** AWS, Azure AD  
+**Monitoring and logs:** Prometheus, Grafana, ELK stack  
+**Containers and orchestration:** Docker, Kubernetes, Helm, Argo CD  
+**CI/CD:** GitLab CI, GitHub Actions  
+**Secrets management:** HashiCorp Vault  
+**Artifact registries:** Harbor, Nexus  
+**Languages and scripting:** Python, Go, Bash, PowerShell  
+**VCS and other tools:** Git, GitHub, Kafka, Jira, Active Directory, Nginx  
+
+## 📫 Contacts
+
+- 📧 Email: kutumovg@gmail.com  
+- 📱 Telegram: [@gaini_kutumov](https://t.me/gaini_kutumov) 
+- 💼 LinkedIn: [www.linkedin.com/in/gaini-kutumov](www.linkedin.com/in/gaini-kutumov)
+
+## 📌 About Me
+
+- I love automating everything that can be automated.  
+- I'm always learning and improving my skills.  
+- Open to new opportunities and interesting projects.
