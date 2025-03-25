@@ -12,7 +12,6 @@
 **Secrets management:** HashiCorp Vault  
 **Artifact registries:** Harbor, Nexus  
 **Languages and scripting:** Python, Go, Bash, PowerShell  
-**VCS and other tools:** Git, GitHub, Kafka, Jira, Active Directory, Nginx  
 
 ## 📫 Contacts
 
